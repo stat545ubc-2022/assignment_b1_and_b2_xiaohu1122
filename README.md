@@ -9,7 +9,7 @@ The main task of Assignment B1 includes:
 * Provide examples of how to use this function
 * Test the function
 
-The main task of Assignment B2 inclues:
+The main task of Assignment B2 includes:
 * Render the documentation for all of the functions
 * Create documentation for R package at a high level
 * Ensure everything else in the DESCRIPTION file
