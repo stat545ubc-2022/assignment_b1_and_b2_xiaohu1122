@@ -17,7 +17,9 @@ with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122", build_vignettes = FALSE, ref = "0.1.2")
+devtools::install_github(repo="https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122",
+                         ref="0.1.2", 
+                         subdir='/autoplot')
 ```
 
 ## Example
