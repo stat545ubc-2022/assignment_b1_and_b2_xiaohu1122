@@ -1,0 +1,21 @@
+Package: autoplot
+Title: Easy plots with multiple variables
+Version: 0.0.0.9000
+Authors@R: 
+    person(
+    given = "Xiao", 
+    family = "Hu",
+    email = "xiao.hu@gmail.com", 
+    role = c("aut", "cre"))
+Description: This package is used to plot informative graphs with at least three variables by using facetting or an aesthetic like colour.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Imports: 
+    datateachr,
+    ggplot2,
+    purrr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
