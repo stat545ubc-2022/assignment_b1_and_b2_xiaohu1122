@@ -16,3 +16,5 @@ test_that("non-redundant inputs: different type", {
   expect_error(scatter_bygroup(cancer_sample, 1, "concave_points_mean", "diagnosis",FALSE),
                "I am so sorry, but this function only works for character inputs!" )
 })
+
+rm('test')

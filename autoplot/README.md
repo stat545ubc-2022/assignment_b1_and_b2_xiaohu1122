@@ -12,7 +12,8 @@ variables by using facetting or an aesthetic like colour
 ## Installation
 
 You can install the development version of autoplot from
-[GitHub](https://github.com/) with:
+[GitHub](https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122)
+with:
 
 ``` r
 # install.packages("devtools")
