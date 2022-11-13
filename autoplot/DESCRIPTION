@@ -1,6 +1,6 @@
 Package: autoplot
 Title: Easy plots with multiple variables
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: 
     person(
     given = "Xiao", 

@@ -12,12 +12,12 @@ variables by using facetting or an aesthetic like colour
 ## Installation
 
 You can install the development version of autoplot from
-[GitHub](https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122/autoplot)
+[GitHub](https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122)
 with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("stat545ubc-2022/assignment_b1_and_b2_xiaohu1122/autoplot")
+devtools::install_github("https://github.com/stat545ubc-2022/assignment_b1_and_b2_xiaohu1122", build_vignettes = FALSE, ref = "0.1.2")
 ```
 
 ## Example
